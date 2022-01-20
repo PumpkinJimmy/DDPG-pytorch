@@ -1,0 +1,9 @@
+Python dependencies:
+- numpy
+- pytorch
+- gym[all]
+- mujoco-py
+- tqdm
+
+Other dependencies:
+- Mujoco Simulator
